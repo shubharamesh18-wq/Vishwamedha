@@ -1,0 +1,7 @@
+{
+  "routes": [
+    { "path": "/", "title": "Vishwamedha Consultancy Services" },
+    { "path": "/academy", "title": "VCS Academy & Upcoming Training Batches" },
+    { "path": "/booking/success", "title": "VCS Training Booking Confirmation" }
+  ]
+}
