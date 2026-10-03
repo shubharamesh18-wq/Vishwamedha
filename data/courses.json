@@ -1,0 +1,416 @@
+[
+  {
+    "id": "iso-9001",
+    "courseName": "ISO 9001: Quality Management Systems (QMS)",
+    "isoVersion": "ISO 9001",
+    "courseType": "Management Systems & Certifications",
+    "subCategory": "Manufacturing, Quality & Automotive",
+    "description": "Master the world’s leading quality management framework to streamline organizational processes, mitigate operational risks, and drive consistent customer satisfaction.",
+    "startDate": "2027-01-04",
+    "endDate": "2027-01-08",
+    "duration": "5 Days (40 Hrs)",
+    "feeInr": 28000,
+    "keySyllabusOutcomes": [
+      "Interpret & execute ISO 9001:2015 clause requirements",
+      "Plan & conduct internal/lead audits per ISO 19011",
+      "Implement risk-based thinking & root-cause analysis",
+      "Establish Quality Objectives & PDCA cycles."
+    ]
+  },
+  {
+    "id": "iatf-16949",
+    "courseName": "IATF 16949: Automotive Quality Management",
+    "isoVersion": "IATF 16949",
+    "courseType": "Management Systems & Certifications",
+    "subCategory": "Manufacturing, Quality & Automotive",
+    "description": "Elevate automotive manufacturing compliance with global tier-1 standards, focusing on defect prevention, supply chain consistency, and waste reduction.",
+    "startDate": "2027-01-11",
+    "endDate": "2027-01-14",
+    "duration": "4 Days (32 Hrs)",
+    "feeInr": 32000,
+    "keySyllabusOutcomes": [
+      "Integrate IATF 16949 with core automotive CSRs",
+      "Apply Core Tools (APQP, FMEA, MSA, SPC, PPAP)",
+      "Audit manufacturing processes & product readiness",
+      "Standardize error-proofing (Poka-Yoke)."
+    ]
+  },
+  {
+    "id": "as-9100",
+    "courseName": "AS 9100: Aerospace & Defense Quality Management",
+    "isoVersion": "AS 9100",
+    "courseType": "Management Systems & Certifications",
+    "subCategory": "Manufacturing, Quality & Automotive",
+    "description": "Build precision-driven quality frameworks compliant with global aviation, space, and defense sector mandates.",
+    "startDate": "2027-01-18",
+    "endDate": "2027-01-22",
+    "duration": "5 Days (40 Hrs)",
+    "feeInr": 38000,
+    "keySyllabusOutcomes": [
+      "Implement configuration management & product safety protocols",
+      "Execute FOD prevention & counterfeit parts mitigation",
+      "Audit operational risk in aerospace supply chains",
+      "Manage key characteristics & FAI."
+    ]
+  },
+  {
+    "id": "iso-ts-22163",
+    "courseName": "ISO/TS 22163: Railway Industry Standard (IRIS)",
+    "isoVersion": "ISO/TS 22163",
+    "courseType": "Management Systems & Certifications",
+    "subCategory": "Manufacturing, Quality & Automotive",
+    "description": "Achieve operational excellence in the rail industry by mastering international railway quality standards for rolling stock and signaling components.",
+    "startDate": "2027-01-25",
+    "endDate": "2027-01-28",
+    "duration": "4 Days (32 Hrs)",
+    "feeInr": 35000,
+    "keySyllabusOutcomes": [
+      "Master RAMS/LCC integration",
+      "Implement project & performance metrics unique to rail manufacturing",
+      "Audit rail supply chain management",
+      "Drive process maturity scoring aligned with IRIS."
+    ]
+  },
+  {
+    "id": "iso-14001",
+    "courseName": "ISO 14001: Environmental Management Systems (EMS)",
+    "isoVersion": "ISO 14001",
+    "courseType": "Management Systems & Certifications",
+    "subCategory": "Environment, Health & Energy",
+    "description": "Drive sustainable industrial practices, reduce environmental footprints, and ensure compliance with statutory environmental mandates.",
+    "startDate": "2027-02-01",
+    "endDate": "2027-02-05",
+    "duration": "5 Days (40 Hrs)",
+    "feeInr": 28000,
+    "keySyllabusOutcomes": [
+      "Identify environmental aspects & evaluate impacts across life cycles",
+      "Build compliance evaluation frameworks",
+      "Design waste management & pollution prevention protocols",
+      "Conduct EMS lead audits."
+    ]
+  },
+  {
+    "id": "iso-45001",
+    "courseName": "ISO 45001: Occupational Health & Safety (OH&S)",
+    "isoVersion": "ISO 45001",
+    "courseType": "Management Systems & Certifications",
+    "subCategory": "Environment, Health & Energy",
+    "description": "Build a safe, hazard-free workplace culture by proactive risk elimination, health monitoring, and regulatory compliance.",
+    "startDate": "2027-02-08",
+    "endDate": "2027-02-12",
+    "duration": "5 Days (40 Hrs)",
+    "feeInr": 28000,
+    "keySyllabusOutcomes": [
+      "Conduct hazard identification & risk assessment (HIRAC)",
+      "Drive worker consultation & safety leadership",
+      "Plan emergency response & incident investigation",
+      "Audit OH&S management systems."
+    ]
+  },
+  {
+    "id": "iso-50001",
+    "courseName": "ISO 50001: Energy Management Systems (EnMS)",
+    "isoVersion": "ISO 50001",
+    "courseType": "Management Systems & Certifications",
+    "subCategory": "Environment, Health & Energy",
+    "description": "Optimize organizational energy consumption, lower utility overheads, and build measurable decarbonization pathways.",
+    "startDate": "2027-02-15",
+    "endDate": "2027-02-18",
+    "duration": "4 Days (32 Hrs)",
+    "feeInr": 26000,
+    "keySyllabusOutcomes": [
+      "Establish Energy Baselines (EnBs) & Energy Performance Indicators (EnPIs)",
+      "Conduct comprehensive energy reviews",
+      "Integrate energy into procurement & design",
+      "Measure & verify energy savings."
+    ]
+  },
+  {
+    "id": "iso-27001",
+    "courseName": "ISO 27001: Information Security Management Systems (ISMS)",
+    "isoVersion": "ISO 27001",
+    "courseType": "Management Systems & Certifications",
+    "subCategory": "IT, Data Security & Medical Devices",
+    "description": "Safeguard critical business data, minimize cyber vulnerability exposure, and establish robust information security governance.",
+    "startDate": "2027-02-22",
+    "endDate": "2027-02-26",
+    "duration": "5 Days (40 Hrs)",
+    "feeInr": 40000,
+    "keySyllabusOutcomes": [
+      "Conduct ISMS risk assessments & Risk Treatment Plans (RTP)",
+      "Implement Annex A control sets across physical/digital assets",
+      "Prepare for breach response & compliance",
+      "Lead ISO 27001 audits."
+    ]
+  },
+  {
+    "id": "iso-13485",
+    "courseName": "ISO 13485: Medical Devices Quality Management",
+    "isoVersion": "ISO 13485",
+    "courseType": "Management Systems & Certifications",
+    "subCategory": "IT, Data Security & Medical Devices",
+    "description": "Ensure end-to-end quality and compliance throughout the design, production, and distribution lifecycle of medical devices.",
+    "startDate": "2027-03-01",
+    "endDate": "2027-03-04",
+    "duration": "4 Days (32 Hrs)",
+    "feeInr": 35000,
+    "keySyllabusOutcomes": [
+      "Align QMS practices with global regulations (MDR, US FDA)",
+      "Implement ISO 14971 risk management",
+      "Establish cleanroom controls & sterilization validation",
+      "Audit medical device technical files."
+    ]
+  },
+  {
+    "id": "iso-22000",
+    "courseName": "ISO 22000: Food Safety Management Systems (FSMS)",
+    "isoVersion": "ISO 22000",
+    "courseType": "Management Systems & Certifications",
+    "subCategory": "Healthcare & Food Safety",
+    "description": "Protect consumer health across the farm-to-fork supply chain by mastering food hazard controls and safety standards.",
+    "startDate": "2027-03-08",
+    "endDate": "2027-03-12",
+    "duration": "5 Days (40 Hrs)",
+    "feeInr": 28000,
+    "keySyllabusOutcomes": [
+      "Implement Prerequisite Programs (PRPs) & OPRPs",
+      "Apply HACCP principles",
+      "Build food defense, allergen & recall protocols",
+      "Conduct FSMS audits against ISO 22000/FSSC 22000."
+    ]
+  },
+  {
+    "id": "nabh-accred",
+    "courseName": "NABH: Healthcare Providers Accreditation",
+    "isoVersion": "NABH",
+    "courseType": "Management Systems & Certifications",
+    "subCategory": "Healthcare & Food Safety",
+    "description": "Elevate clinical governance, patient care standards, and hospital operational quality to meet national healthcare benchmarks.",
+    "startDate": "2027-03-15",
+    "endDate": "2027-03-19",
+    "duration": "5 Days (40 Hrs)",
+    "feeInr": 42000,
+    "keySyllabusOutcomes": [
+      "Implement NABH Patient & Organization Centered standards",
+      "Design quality indicators for clinical outcomes & infection control",
+      "Standardize medication management",
+      "Conduct mock accreditation audits."
+    ]
+  },
+  {
+    "id": "iso-17025",
+    "courseName": "ISO/IEC 17025: Testing & Calibration Laboratories",
+    "isoVersion": "ISO/IEC 17025",
+    "courseType": "Management Systems & Certifications",
+    "subCategory": "Laboratory & Inspection Accreditations",
+    "description": "Build technical competence and data reliability in testing and calibration laboratories for global test report acceptance.",
+    "startDate": "2027-03-22",
+    "endDate": "2027-03-25",
+    "duration": "4 Days (32 Hrs)",
+    "feeInr": 25000,
+    "keySyllabusOutcomes": [
+      "Calculate Measurement Uncertainty (MU) & metrological traceability",
+      "Validate test methods & IQC/EQAS programs",
+      "Implement impartiality controls",
+      "Conduct internal audits per NABL guidelines."
+    ]
+  },
+  {
+    "id": "iso-15189",
+    "courseName": "ISO 15189: Medical Laboratories Quality & Competence",
+    "isoVersion": "ISO 15189",
+    "courseType": "Management Systems & Certifications",
+    "subCategory": "Laboratory & Inspection Accreditations",
+    "description": "Ensure accuracy, timeliness, and regulatory compliance in diagnostic and medical laboratory testing.",
+    "startDate": "2027-03-29",
+    "endDate": "2027-04-01",
+    "duration": "4 Days (32 Hrs)",
+    "feeInr": 25000,
+    "keySyllabusOutcomes": [
+      "Manage pre-analytical, analytical & post-analytical testing workflows",
+      "Establish biological reference intervals",
+      "Implement biosafety & sample management",
+      "Prepare for NABL medical assessments."
+    ]
+  },
+  {
+    "id": "iso-17020",
+    "courseName": "ISO 17020: Inspection Bodies Accreditation",
+    "isoVersion": "ISO 17020",
+    "courseType": "Management Systems & Certifications",
+    "subCategory": "Laboratory & Inspection Accreditations",
+    "description": "Establish technical competence, independence, and consistency across third-party inspection agencies.",
+    "startDate": "2027-04-05",
+    "endDate": "2027-04-07",
+    "duration": "3 Days (24 Hrs)",
+    "feeInr": 22000,
+    "keySyllabusOutcomes": [
+      "Categorize inspection body types (Type A, B, C) & independence criteria",
+      "Standardize inspection procedures & field sampling",
+      "Audit inspector competency",
+      "Maintain compliance with NABCB guidelines."
+    ]
+  },
+  {
+    "id": "tech-genai",
+    "courseName": "Generative AI & Prompt Engineering",
+    "isoVersion": "Not applicable",
+    "courseType": "Academy & Tech Training",
+    "subCategory": "Future Tech & Next-Gen Courses",
+    "description": "Unlock practical AI productivity by mastering Large Language Models, advanced prompt strategies, and enterprise automation toolkits.",
+    "startDate": "2027-04-12",
+    "endDate": "2027-04-30",
+    "duration": "3 Weeks",
+    "feeInr": 24000,
+    "keySyllabusOutcomes": [
+      "Master prompt patterns (Few-shot, Chain-of-Thought, ReAct)",
+      "Leverage LLM APIs, LangChain & RAG frameworks",
+      "Automate business workflows",
+      "Address AI hallucination & enterprise privacy."
+    ]
+  },
+  {
+    "id": "tech-cyber",
+    "courseName": "Cybersecurity & Ethical Hacking",
+    "isoVersion": "Not applicable",
+    "courseType": "Academy & Tech Training",
+    "subCategory": "Future Tech & Next-Gen Courses",
+    "description": "Defend networks and systems against cyber threats by mastering defensive security, penetration testing, and vulnerability management.",
+    "startDate": "2027-05-03",
+    "endDate": "2027-06-11",
+    "duration": "6 Weeks",
+    "feeInr": 35000,
+    "keySyllabusOutcomes": [
+      "Conduct network reconnaissance & vulnerability assessments",
+      "Perform web app pen testing (OWASP Top 10)",
+      "Implement threat detection & SIEM log analysis",
+      "Apply cryptography & network defense."
+    ]
+  },
+  {
+    "id": "tech-aiml",
+    "courseName": "Artificial Intelligence (AI) & Machine Learning (ML)",
+    "isoVersion": "Not applicable",
+    "courseType": "Academy & Tech Training",
+    "subCategory": "Future Tech & Next-Gen Courses",
+    "description": "Build intelligent predictive applications using statistical modeling, deep learning architectures, and modern Python frameworks.",
+    "startDate": "2027-06-14",
+    "endDate": "2027-07-23",
+    "duration": "6 Weeks",
+    "feeInr": 42000,
+    "keySyllabusOutcomes": [
+      "Implement supervised/unsupervised ML algorithms",
+      "Build neural network architectures in PyTorch/TensorFlow",
+      "Perform hyperparameter tuning & cross-validation",
+      "Deploy ML models as API endpoints."
+    ]
+  },
+  {
+    "id": "tech-datasci",
+    "courseName": "Data Science & Advanced Analytics",
+    "isoVersion": "Not applicable",
+    "courseType": "Academy & Tech Training",
+    "subCategory": "Future Tech & Next-Gen Courses",
+    "description": "Transform raw business data into actionable strategies through data engineering, statistical inference, and interactive visualization.",
+    "startDate": "2027-07-26",
+    "endDate": "2027-09-17",
+    "duration": "8 Weeks",
+    "feeInr": 45000,
+    "keySyllabusOutcomes": [
+      "Manipulate & clean data using Pandas, NumPy & SQL",
+      "Perform Exploratory Data Analysis & hypothesis testing",
+      "Build executive dashboards in Power BI/Tableau",
+      "Apply time-series forecasting."
+    ]
+  },
+  {
+    "id": "acad-ncert",
+    "courseName": "Foundation & NCERT Core Mastery",
+    "isoVersion": "Not applicable",
+    "courseType": "Academy & Tech Training",
+    "subCategory": "School Academics (Class 9th & 10th)",
+    "description": "Build conceptual clarity and strong fundamentals across NCERT Science and Mathematics for Class 9th and 10th students.",
+    "startDate": "2027-09-20",
+    "endDate": "2027-10-29",
+    "duration": "6 Weeks",
+    "feeInr": 18000,
+    "keySyllabusOutcomes": [
+      "Master core NCERT concepts in Math & Science",
+      "Solve application-oriented problems",
+      "Develop speed & accuracy for board exams",
+      "Establish strong base for competitive exam tracks."
+    ]
+  },
+  {
+    "id": "acad-cbse",
+    "courseName": "CBSE Curriculum Excellence",
+    "isoVersion": "Not applicable",
+    "courseType": "Academy & Tech Training",
+    "subCategory": "School Academics (Class 9th & 10th)",
+    "description": "Comprehensive board exam preparation aligned with the latest CBSE syllabus, sample papers, and marking schemes.",
+    "startDate": "2027-11-01",
+    "endDate": "2027-12-24",
+    "duration": "8 Weeks",
+    "feeInr": 22000,
+    "keySyllabusOutcomes": [
+      "Complete coverage of CBSE board syllabus",
+      "Practice chapter-wise mock tests & previous years' questions",
+      "Master answer writing techniques",
+      "Personalized feedback & doubt clearing."
+    ]
+  },
+  {
+    "id": "acad-icse",
+    "courseName": "ICSE Board Prep",
+    "isoVersion": "Not applicable",
+    "courseType": "Academy & Tech Training",
+    "subCategory": "School Academics (Class 9th & 10th)",
+    "description": "Rigorous coaching tailored for ICSE Class 9 & 10 syllabus with emphasis on deep understanding and analytical skills.",
+    "startDate": "2028-01-03",
+    "endDate": "2028-02-25",
+    "duration": "8 Weeks",
+    "feeInr": 25000,
+    "keySyllabusOutcomes": [
+      "Thorough coverage of ICSE syllabus in Physics, Chemistry, Biology, Math",
+      "Solve ICSE specimen papers",
+      "Enhance analytical writing & numerical solving skills",
+      "Exam strategy sessions."
+    ]
+  },
+  {
+    "id": "prep-neet",
+    "courseName": "NEET Prep (Medical Intensive Fast-Track)",
+    "isoVersion": "Not applicable",
+    "courseType": "Academy & Tech Training",
+    "subCategory": "Competitive Exam Coaching",
+    "description": "Intensive fast-track coaching program for medical aspirants focusing on high-yield NEET Physics, Chemistry, and Biology.",
+    "startDate": "2028-03-01",
+    "endDate": "2028-05-19",
+    "duration": "12 Weeks",
+    "feeInr": 55000,
+    "keySyllabusOutcomes": [
+      "Master high-weightage NEET topics across PCB",
+      "Speed problem-solving techniques & shortcuts",
+      "Full-length mock tests simulating real exam conditions",
+      "In-depth error analysis."
+    ]
+  },
+  {
+    "id": "prep-jee",
+    "courseName": "JEE Main & Advanced Prep (Engineering Fast-Track)",
+    "isoVersion": "Not applicable",
+    "courseType": "Academy & Tech Training",
+    "subCategory": "Competitive Exam Coaching",
+    "description": "Fast-track coaching program designed for engineering aspirants aiming for top ranks in JEE Main & Advanced.",
+    "startDate": "2028-05-22",
+    "endDate": "2028-08-11",
+    "duration": "12 Weeks",
+    "feeInr": 60000,
+    "keySyllabusOutcomes": [
+      "Deep problem solving in Physics, Chemistry & Math",
+      "Master Advanced-level conceptual applications",
+      "Simulated online computer-based tests (CBT)",
+      "Time management optimization."
+    ]
+  }
+]
